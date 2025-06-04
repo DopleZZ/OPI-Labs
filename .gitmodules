@@ -1,0 +1,9 @@
+[submodule "lab2"]
+	path = lab2
+	url = https://github.com/DopleZZ/OPI_Lab2.git
+[submodule "lab3"]
+	path = lab3
+	url = https://github.com/2BuRy1/OpiLab3.git
+[submodule "lab4"]
+	path = lab4
+	url = https://github.com/DopleZZ/OPI_Lab4.git
